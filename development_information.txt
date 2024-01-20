@@ -1,0 +1,27 @@
+Table need to be delete:
+-> grades
+-> semesters
+-> student_services
+
+
+//Course management
+courses_table
+		
+		->category
+		->thumbnail
+		->title
+		->tags
+		->price
+		->discounted_price
+		->duration
+		->instructor
+		->course_type (free/paid)
+		->course description
+		->course requirements
+		->course features
+		->skill level(begineer,pro)
+		->language(english, bangla)
+
+->Course Circullum
+->Instructor profile
+->Course Review

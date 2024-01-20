@@ -1,0 +1,76 @@
+//Mathematics > Flip Solution-Problem Rental > 2nd Grade > 2nd Semester > Unit 6
+{
+    "seq": 16816, //id
+    "qst_pcode": "1010222226",//generated code
+    "qst_subject_code": "10",//subject
+    "unit_section": 4,//area
+    "unit_seq": 79,//unit
+    "qst_class": 2,//Grade
+    "qst_term": 2,//Semester
+    "qst_context": "&lt;h2&gt;&lt;img height=&quot;&lt;h2&g=&quot;540&quot;&gt;&lt;/h2&gt;\r\n\r\n&lt;p&gt; &lt;/p&gt;\r\n",//Fingerprint -> fingerprint
+    "qst_subject": "&lt;h2&gt;덧셈표에서 규칙을 찾아 ㉠에 들어갈 알맞은 수를 쓰시오.&lt;/h2&gt;\r\n",//Title -> title
+    "qst_type": 2,//type 1-> mcq, 2->short answer, 3->descriptive  -> question_type
+    "qst_type_sub": null,
+    "qst_book": null,
+    "qst_book_num": null,
+    "qst_book_page": null,
+    "qst_correct": "12",//answer -> correct_answer
+    "qst_score": 5,//points -> point_id
+    "qst_open": "Y",//exposure -> status
+    "qst_regdate": "2020-11-03 14:27:59",//created_at
+    "qst_user_seq": 51,//by whom this question was created -> created_by
+    "qst_mod_date": "2022-11-01 14:11:18",//updated at
+    "qst_mod_user_seq": 80,//by whom this question was modified -> updated_by
+    "qst_caption": "&lt;h3&gt;→ 방향으로 2씩 커지는 규칙이므로 10보다 2 큰 수는 12입니다.&lt;/h다.&lt;/h3&gt;\r\n",//Commentary -> commentary
+    "qst_draw_gbn": 0, //how to write -> descriptive_answer_type
+    "unit_star": "중하",//Difficulty -> difficulty_id
+    "qst_chasi": "덧셈표에서 규칙찾기",//car time
+    "qst_object": "&lt;h3&gt;덧셈표에서 다양한 규칙을 찾고 찾은 규칙을 설명할 수 있다.&lt;/h3&gt;\r\n"//Learning objectives -> learning_goal
+}
+
+//unit
+{
+    "seq": 202,//id
+    "unit_section": 1,//area
+    "unit_subject_code": "10",//subject
+    "unit_book": 0,//textbook
+    "unit_grade": 6,//Grade
+    "unit_term": 1,//Semester
+    "unit_month": null,
+    "unit_week": 9,//parking
+    "unit_name": "분수의 나눗셈(1)",//Unit name
+    "unit_object": "(가분수)÷(자연수), (대분수)÷(자연수)의 계산과정을 설명하고 몫을 구할 수 있습니다.",//Unit goal
+    "unit_keyword": "",//Keyword Registration
+    "unit_status": 2,//Status
+    "unit_regdate": "2020-04-22 11:15:11",//Created at
+    "unit_chasi": "(가분수)÷(자연수) |(대분수)÷(자연수) ",//car sections (explode by |)
+    "unit_star": 5
+}
+
+
+//exam
+{
+    "seq": 271,//id
+    "subject_code": "10",//subject
+    "unit_section": 1,//area
+    "unit_seq": 3,//unit
+    "chasi": "1~5까지의 수",//Car City / time
+    "view_name": "다양한 수의 의미", //notation name 
+    "week": 1,//parking
+    "start_date": null,
+    "end_date": null,
+    "class": 1,//Grade
+    "term": 1,//Semester
+    "grade": null,
+    "subject": "1학년 여름방학 1강",//Title
+    "limit_time": 10,//Exam Time
+    "user_seq": 51,//by whom this question was created -> created_by
+    "regdate": "2020-06-10 10:16:28",//Created at
+    "status": 1,//Status
+    "qst_lists": "9497,9496,9495", //exam questions
+    "require_cmt": "&lt;p&gt;방학특강에서는 학습 영상에서 개념 강의를 먼저 공부한 후 영상을 잠시 멈추고 쪽지시험을 풀어 주세요. &lt;/p&gt;&lt;p&gt;그 후 다시 영상을 클릭한 후 강의를 이어서 들어 주세요. 문제에 대한 풀이강의가 개념 강의 뒤에 이어집니다.&lt;/p&gt;", //Learning Guide	
+    "st_object": "&lt;p&gt;이번 강의를 통해 &lt;strong&gt;&#039;다양한 수의 의미&#039;&lt;/strong&gt;를 이해하고 읽을 수 있습니다. &lt;/p&gt;",//Learning Objectives
+    "st_scale": "&lt;p&gt;&lt;strong&gt;&#039;다양한 수의 의미&#039;&lt;/strong&gt;에 대하여 학습한 내용을 스스로 평가해 보세요.&lt;/p&gt;",//test range	
+    "free_gbn": null,
+    "unit_star": "1"//step
+}
